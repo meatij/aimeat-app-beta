@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/aimeat-app-beta/precache-manifest.361c1820a914285ee70e16a989f18dc3.js"
+  "/aimeat-app-beta/precache-manifest.1dd5d6fb10bcb32a38a84fa5f46eac23.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "aimeat-app"});
