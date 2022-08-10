@@ -1,7 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1d57a52fdca14c14c397",
-    "url": "/aimeat-app-beta/css/app.890498bc.css"
+    "revision": "f56426baa379c7e8d99c",
+    "url": "/aimeat-app-beta/css/app.ec12b955.css"
   },
   {
     "revision": "abe71f7d608d43b56d9b2aef78d7ae99",
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/aimeat-app-beta/fonts/element-icons.d9491be2.woff"
   },
   {
-    "revision": "4db581e40bf1631c30e8798e588e8b27",
+    "revision": "b994632a1a44a1986f0429dfe836ed34",
     "url": "/aimeat-app-beta/index.html"
   },
   {
@@ -20,12 +20,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/aimeat-app-beta/js/about.28353da7.js"
   },
   {
-    "revision": "1d57a52fdca14c14c397",
-    "url": "/aimeat-app-beta/js/app.baa2d966.js"
+    "revision": "f56426baa379c7e8d99c",
+    "url": "/aimeat-app-beta/js/app.4bf24fc8.js"
   },
   {
-    "revision": "267a0664c13a2dacb01f",
-    "url": "/aimeat-app-beta/js/chunk-vendors.c30235f6.js"
+    "revision": "260b86888cf96b0d7d4f",
+    "url": "/aimeat-app-beta/js/chunk-vendors.adfb4c5a.js"
   },
   {
     "revision": "70ed5743f632ff13a3662d0de46547e1",
